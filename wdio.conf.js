@@ -1,6 +1,7 @@
 const shared = require('./wdio.shared.conf.js');
 const process = require('process');
 
+
 const browsers = Object.fromEntries(
   Object.entries(require('./browsers.json'))
     .filter(([k, v]) => {
