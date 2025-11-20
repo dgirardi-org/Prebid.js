@@ -6,6 +6,7 @@ const BIDDER_CODE = '360playvid';
 const AD_URL = 'https://ssp.360playvid.com/pbjs';
 const SYNC_URL = 'https://cookie.360playvid.com';
 
+
 export const spec = {
   code: BIDDER_CODE,
   supportedMediaTypes: [BANNER, VIDEO, NATIVE],
