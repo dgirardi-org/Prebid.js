@@ -5,6 +5,7 @@ window.__karma__.loaded = ((orig) => {
       orig();
     } else {
       window.onload = orig;
+      
     }
   }
 })(window.__karma__.loaded.bind(window.__karma__));
