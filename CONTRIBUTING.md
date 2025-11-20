@@ -3,6 +3,7 @@ Contributions are always welcome. To contribute, [fork](https://help.github.com/
 commit your changes, and [open a pull request](https://help.github.com/articles/using-pull-requests/) against the
 master branch.
 
+
 Pull requests must have 80% code coverage before being considered for merge.
 Additional details about the process can be found [here](./PR_REVIEW.md).
 
